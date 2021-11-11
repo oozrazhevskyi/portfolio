@@ -20,7 +20,7 @@ body {
 /* #region */
 
 .myheader-img {
-  background: url("./img/header/bg.jpg") no-repeat, rgba(198, 108, 73, 0.3);
+  background: url("img/header/bg.jpg") no-repeat, rgba(198, 108, 73, 0.3);
   background-size: cover;
 }
 
