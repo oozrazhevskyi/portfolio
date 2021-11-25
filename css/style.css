@@ -31,8 +31,8 @@ body {
   padding-bottom: 240px;
   color: #fff;
 }
-.nav-button {
-  display: none;
+.navbar-toggler-icon {
+  background-image: url("../img/navbutton.svg");
 }
 .nav-item {
   margin-right: 60px;
