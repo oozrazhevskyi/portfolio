@@ -31,6 +31,9 @@ body {
   padding-bottom: 240px;
   color: #fff;
 }
+.nav-button {
+  display: none;
+}
 .nav-item {
   margin-right: 60px;
 }
@@ -97,11 +100,11 @@ body {
 /* .main-skills-section */
 /* #region */
 .main-skills-section {
-  background: #fffaf2;
   padding-top: 93px;
   padding-bottom: 145px;
   padding-left: 165px;
   padding-right: 165px;
+  background: #fffaf2;
 }
 
 .main-skills-section > h1 {
@@ -141,11 +144,11 @@ body {
 /* .main-portfolio-section */
 /* #region */
 .main-portfolio-section {
-  background: #ffffff;
   padding-top: 93px;
   padding-bottom: 145px;
   padding-left: 165px;
   padding-right: 165px;
+  background: #fff;
 }
 .main-portfolio-section > h1 {
   font-weight: bold;
@@ -188,11 +191,11 @@ body {
 
 /* #region */
 .footer {
-  background: #fffaf2;
   padding-top: 93px;
   padding-left: 165px;
   padding-right: 347px;
   padding-bottom: 189px;
+  background: #fffaf2;
 }
 
 .footer > h1 {
